@@ -30,7 +30,7 @@ torch==2.3.1+cpu
 
 sentence-transformers
 faiss-cpu
-flas 
+flask
 numpy
 ```
 
